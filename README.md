@@ -1,3 +1,3 @@
 # mi-ecommerce
 Desafio - Mi Ecommerce - Grid
-Resolución 1366 x 762
+Resolución 1920 X 1080
